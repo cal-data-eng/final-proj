@@ -31,7 +31,7 @@ This document is an _outline_. It has all the components as required in the spec
 
 * Describe the problem
 * Explain why this is a reasonable solution
-* Evaluate it's performance
+* Evaluate its performance
 * Show the query
 * Show the output
 
